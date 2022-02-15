@@ -90,7 +90,6 @@ export default function App() {
       gameIsEnded={gameIsEnded}
     />
   ));
-
   return (
     <div className="main">
       {!isPlaying ? (
